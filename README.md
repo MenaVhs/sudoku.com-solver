@@ -1,4 +1,6 @@
 # Sudoku.com Solver
+Mis cambios, mena
+
 Demo:
 ![Solver](https://github.com/santifiorino/sudoku.com-solver/assets/94584235/c4301548-578c-47cf-b46a-dfaa9382fab8)
 ## About
